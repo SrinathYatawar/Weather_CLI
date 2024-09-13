@@ -15,7 +15,7 @@ DB_NAME = 'weather_db'
 DB_HOST = 'localhost'
 
 # OpenWeatherMap API credentials
-API_KEY = 'd3725981db4437d09e470f787cef0d0e'
+API_KEY = 'API_KEY_HERE'
 
 # File to store user sessions
 SESSION_FILE = 'user_sessions.pkl'
